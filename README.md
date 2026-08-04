@@ -2,6 +2,8 @@
 
 **Data Scientist — Recommendation, Ranking & ML Systems** at Kakao Style (AI Search & Recommendation)
 
+🌐 **[minsun-park.github.io](https://minsun-park.github.io)** — full resume (KR / EN)
+
 I build recommendation and search systems end to end — candidate retrieval, embedding-based ranking, and production serving at scale — and I'm currently extending into ads-facing ranking and user representation learning.
 
 > 💡 My day-to-day work ships through my company's private org, so the commit graph here doesn't reflect it. This account hosts my research and selected personal work.
@@ -30,4 +32,4 @@ The two repos together are the research trail: explored causal recommendation, h
 
 ## 📫 Contact
 
-parkminsun0508@gmail.com · [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%84%A0-%EB%B0%95-467333237/)
+[minsun-park.github.io](https://minsun-park.github.io) · parkminsun0508@gmail.com · [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%84%A0-%EB%B0%95-467333237/)
